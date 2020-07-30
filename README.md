@@ -33,7 +33,7 @@ Appears to use pre-generated look up table.
 # Java
 ## [pokertraining](https://github.com/markmadej/pokertraining) by markmadej
 
-[Video-Poker-Hand-Evaluator](https://github.com/ali3hamodi6/Video-Poker-Hand-Evaluator) by ali3hamodi6
+## [Video-Poker-Hand-Evaluator](https://github.com/ali3hamodi6/Video-Poker-Hand-Evaluator) by ali3hamodi6
 
 # Javascript / Typescript
 ## [videopoker.js](https://github.com/richardkiss/videopoker.js) by richardkiss
