@@ -24,11 +24,10 @@ Compiled using Xcode Version 11.6
 Appears to be exhaustive search of all 32 possible holds/discards.
 
 ## [CocoaVideoPoker](https://github.com/mikemcqueen/CocoaVideoPoker) by mikemcqueen
-
+Appears to use pre-generated look up table.
 
 # C#
-[VideoPokerAssistant](https://github.com/kihyo9/VideoPokerAssistant) by kihyo9
-Appears to use pre-generated look up table.
+## [VideoPokerAssistant](https://github.com/kihyo9/VideoPokerAssistant) by kihyo9
 
 # Java
 ## [pokertraining](https://github.com/markmadej/pokertraining) by markmadej
