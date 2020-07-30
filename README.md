@@ -59,8 +59,9 @@ This is fast.
 
 ## [videopoker](https://github.com/kortox/videopoker) by kortox
 
-[videopoker](https://github.com/fprefect/videopoker) by fprefect
-[video-poker-hand-analyzer](https://github.com/thehomebrewnerd/video-poker-hand-analyzer) by thehomebrewnerd
+## [videopoker](https://github.com/fprefect/videopoker) by fprefect
+
+## [video-poker-hand-analyzer](https://github.com/thehomebrewnerd/video-poker-hand-analyzer) by thehomebrewnerd
 
 
 # Ruby
