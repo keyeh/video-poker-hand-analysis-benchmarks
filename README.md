@@ -45,9 +45,19 @@ Appears to use pre-generated look up table.
 
 ## [videopoker.academy](https://github.com/Hyprtxt/videopoker.academy) by Hyprtxt
 
+# WebAssembly
+## [v10.wasm](https://www.vpfree2.com/play_perfect/wasm/evaluate/v10.wasm) by Play Perfect
+From: https://www.vpfree2.com/video-poker/hand-evaluator/
+Tested with Chrome Version 84.0.4147.105
+```
+Evaluated 43,000 hands in approx. 10 seconds = 0.232558 ms per hand
+```
+We can interface with the webassembly analyzer by running code in the devtools console. The WASM analyzer is exposed in global scope as `window.game.wasm`. 
+
+
 # Python
 Tested using Python 2.7
-## 🏆 [video_poker_analyzer](https://github.com/BradAJ/video_poker_analyzer) by BradAJ
+## [video_poker_analyzer](https://github.com/BradAJ/video_poker_analyzer) by BradAJ
 ```
   Time (mean ± σ):     228.4 ms ±   4.7 ms    [User: 439.6 ms, System: 219.6 ms]
   Range (min … max):   220.3 ms … 234.5 ms    13 runs
@@ -68,6 +78,3 @@ This is fast.
 ## [VideoPoker](https://github.com/WJLiddy/VideoPoker) by WJLiddy
 
 
-# Others
-## [v10.wasm](https://www.vpfree2.com/play_perfect/wasm/evaluate/v10.wasm) by Play Perfect
-From: https://www.vpfree2.com/video-poker/hand-evaluator/
