@@ -50,9 +50,10 @@ Appears to use pre-generated look up table.
 From: https://www.vpfree2.com/video-poker/hand-evaluator/
 Tested with Chrome Version 84.0.4147.105
 ```
-Evaluated 43,000 hands in approx. 10 seconds = 0.232558 ms per hand
+Evaluated all 2,598,960 hands in 12m 40s seconds = 0.29 ms per hand
 ```
-We can interface with the webassembly analyzer by running code in the devtools console. The WASM analyzer is exposed in global scope as `window.game.wasm`. 
+The WASM analyzer is exposed in global scope as `window.game.wasm`.
+We can interface with the webassembly analyzer by running JS code in the devtools console.
 
 
 # Python
