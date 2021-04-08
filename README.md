@@ -1,5 +1,5 @@
-# Video Poker Hand Analysis Benchmarks
-The goal of this project is to identify the fastest code for calculating the optimal discard strategy for a random video poker hand and payout table.
+# Video Poker Hand Analysis Projects
+The goal of this project is to find the fastest code for calculating the optimal discard strategy for a random video poker hand and payout table.
 
 Please create an issue or pull request if you know of projects that I missed.
 
